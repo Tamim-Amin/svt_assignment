@@ -14,6 +14,7 @@ This repository contains the collaborative work for our SVT team assignment, sho
 - **Sadiah Rahman Chowdhury**
 - **Tamim Amin Suhag**
 - **Fawzia Fardowsi Tahia**
+![image](https://github.com/user-attachments/assets/f59a9aa3-c6aa-4382-8838-b28d8046da28)
 
 
 
